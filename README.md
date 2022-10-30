@@ -26,10 +26,15 @@ most befitting way to overcome such a challenge and avoid physical contact. Soci
 WORKFLOW
 
 Step 1: Data collection for Machine learning model (COCO Dataset). 
+
 Step 2: Applying ML algorithm (Yolov3) and storing data.
+
 Step 3: Computing pairwise distance between centroids of bounding boxes and their relative depths.
+
 Step 4: Checking if euclidean distance b/w two centroids is greater than the recommended distance(120px in our case).
+
 Step 5: Testing the model on test data 
+
 Step 6: Test and document the final system.
 
 Why YOLO not CNN?
