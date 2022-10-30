@@ -53,5 +53,6 @@ Our model successfully detected the social distancing violations in a live camer
 Our model reported an accuracy of 94.6% at 12FPS and 88.6% at 24.1FPS which are good enough to perform real time monitoring.
 
 ![image](https://user-images.githubusercontent.com/117010199/198875351-f4eee131-75de-4b05-86d3-707ca5595456.png)
+![image](https://user-images.githubusercontent.com/117010199/198875591-878858f2-c370-4764-8401-128083d68be0.png)
 
 
